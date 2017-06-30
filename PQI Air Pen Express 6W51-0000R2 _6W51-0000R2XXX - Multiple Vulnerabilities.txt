@@ -1,28 +1,23 @@
 						 _ _ _       _
-                        | | | |     | |
-  ___  _ ____      _____| | | | __ _| |__  ___
- / _ \| '__\ \ /\ / / _ \ | | |/ _` | '_ \/ __|   	
-| (_) | |   \ V  V /  __/ | | | (_| | |_) \__ \
- \___/|_|    \_/\_/ \___|_|_|_|\__,_|_.__/|___/
-		
-		Security Adivisory
-		   2016-04-03
-		<				  >
-		Twitter:@orwelllabs
-
-				magicword: d0ubl3th1nk1ng...
-
+          
+	        0RWELLL4BS
+          	**********
+             Security Advisory
+              olsa-2016-8258
+              PGP: 79A6CCC0
+               @orwelllabs
+	       
+	       
+	       
 
 Overview
 =======
 Technical Risk: high
 Likelihood of Exploitation: medium
 Vendor: PQI Group
-Affected Products: PQI Air Pen Express - Wireless Router 6W51-0000R2 and
-6W51-0000R2XXX
+Affected Products: PQI Air Pen Express - Wireless Router 6W51-0000R2 and 6W51-0000R2XXX
 Credits: Discovered and researched by Orwelllabs
-Adivisory URL:
-http://www.orwelllabs.com/2016/04/pqi-air-pen-express-wireless-router.html
+Adivisory URL: http://www.orwelllabs.com/2016/04/pqi-air-pen-express-wireless-router.html
 
 
 Issues
@@ -37,11 +32,8 @@ VI. No SSL
 
 background
 =========
-The smart lipstick-shaped PQI Air Pen express is the world's smallest
-wireless router/access point combo you can get today.
-PQI Air Pen express can be powered via an external adapter or a powered USB
-port on your computer and provide a excellent wireless expreience for
-everyone.
+The smart lipstick-shaped PQI Air Pen express is the world's smallest wireless router/access point combo you can get today.
+PQI Air Pen express can be powered via an external adapter or a powered USB port on your computer and provide a excellent wireless expreience for everyone.
 
 
 I. Cross-Site Request Forgery (CSRF) (CWE-352)
